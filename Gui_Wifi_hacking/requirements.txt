@@ -1,0 +1,35 @@
+
+---
+
+### **requirements.txt**
+```txt
+# GUI libraries
+tkinter
+customtkinter
+
+# Networking and OS utilities
+os
+subprocess
+threading
+queue
+time
+glob
+re
+csv
+pathlib
+datetime
+
+# Tkinter extensions
+pillow
+
+# System and network monitoring
+psutil
+pygetwindow
+pyautogui
+pyperclip
+
+# Wireless security tools (ensure they are installed on Linux)
+scapy
+
+# Python packaging (if needed)
+pyinstaller
